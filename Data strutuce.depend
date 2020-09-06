@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1598005440 source:d:\data strutuce\main.c
+
+1598005518 source:d:\data strutuce\c programming.c
+	<stdio.h>
+	<stdlib.h>
+
+1598020413 source:d:\data strutuce\delete array position.c
+	<stdio.h>
+	<stdlib.h>
+
+1598021334 source:d:\data strutuce\linear search.c
+	<stdio.h>
+	<stdlib.h>
+
+1598022390 source:d:\data strutuce\binary element.c
+	<stdio.h>
+	<stdlib.h>
+
+1598023740 source:d:\data strutuce\ascending order bubble sort.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1598180470 source:d:\data strutuce\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
