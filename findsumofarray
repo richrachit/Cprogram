@@ -1,0 +1,14 @@
+include<stdio.h>
+int main()
+{
+int a[10],n,i,sum =0;
+printf("Enter n");
+scanf("%d"&n);
+printf("Enter array elements");
+{
+scanf("%d"&a[i]);
+sum = sum + a[i]
+}
+printf("sum of array element is %d",sum);
+return 0;
+}
